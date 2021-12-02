@@ -6,7 +6,7 @@ namespace pizza
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Sarman");
+            Console.WriteLine("Hello Friends");
         }
     }
 }
